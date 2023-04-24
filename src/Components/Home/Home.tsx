@@ -22,7 +22,7 @@ function Home() {
       <div className="img">
         <img className="group1" src={Group1}></img>
       </div>
-      
+      {/* afdafa */}
     </div>
   );
 }
