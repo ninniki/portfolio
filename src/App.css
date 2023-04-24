@@ -1,0 +1,11 @@
+*{
+     font-family:'Inter','sanserif';
+}
+body{
+    background-color: #FFFCF4;
+    scroll-behavior: smooth;
+
+}
+section{
+    height: 60em;
+}

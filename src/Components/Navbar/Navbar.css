@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.3s all ease-in-out;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: #22CCFF;
+    opacity: 1;
+}
+
+.navbar{
+    /* margin: 0 50px; */
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+    margin:  50px;
+
+}
+.navs{
+    display:flex;
+}
+.navs a{
+    margin-right:40px ;
+
+}
+.logo{
+    font-weight: 600;
+    font-size: 20px;
+}

@@ -1,0 +1,35 @@
+footer{
+    /* position: absolute; */
+    /* bottom: 0; */
+    width:100%;
+    /* margin: 0; */
+}
+.text-center {
+border-top:2px solid black ;
+padding: 10px;
+}
+body{
+    margin: 0 !important;
+}
+.social-icon{
+    position: absolute;
+    right: 0;
+    /* bottom: 0; */
+    display: flex;
+
+}
+.social-icon a{
+    transition: 0.2s all ease-in-out;
+
+  margin: 20px 0px 50px 20px 
+  
+}
+.social-icon a:hover{
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+footer{
+height: 100px;
+
+}
